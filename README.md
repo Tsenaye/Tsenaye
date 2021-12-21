@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tsenaye
+- 👋 Hi, I’m @Tsenaye Namushinga
 - 👀 I’m interested in MERN Fullstack development
 - 🌱 I’m currently learning the MERN stack on udemy
 - 💞️ I’m looking to collaborate on ECommerce projects
